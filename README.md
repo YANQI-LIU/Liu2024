@@ -2,9 +2,9 @@
 
 ### Environments: 
 
-- analysis2 environment: Figure3_Figure4.ipynb, Figure7_preparation.ipynb
+- analysis2 environment: Figure3_Figure4.ipynb, Figure7_preparation.ipynb, and Fig7Sup1.ipynb
 
-- analysis environment: Figures5-7.ipynb
+- analysis environment: Figures5-7.ipynb, Fig5Sup3.ipynb, and Fig1Sup4.ipynb
 
 
 ### Figure3_Figure4.ipynb
